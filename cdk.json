@@ -1,5 +1,5 @@
 {
-  "app": "dotnet run --project src/NetAwsCancellationTokens/NetAwsCancellationTokens.csproj",
+  "app": "dotnet run --project src/Aws.CancellationTokens.Cdk/Aws.CancellationTokens.Cdk.csproj",
   "watch": {
     "include": [
       "**"

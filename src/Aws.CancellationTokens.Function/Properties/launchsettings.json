@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Function": {
+      "commandName": "Executable",
+      "commandLineArgs": "",
+      "workingDirectory": "",
+      "executablePath": "C:\\Users\\%USERNAME%\\.dotnet\\tools\\dotnet-lambda-test-tool-6.0.exe"
+    }
+  }
+}

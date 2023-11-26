@@ -1,0 +1,5 @@
+{
+  "profile": "default",
+  "region": "us-east-2",
+  "function-handler": "Aws.CancellationTokens.Function::Aws.CancellationTokens.Function.Function::FunctionHandler"
+}
